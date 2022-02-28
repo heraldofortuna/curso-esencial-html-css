@@ -36,7 +36,6 @@
 body {
   color: var(--gray30);
   font-family: "Roboto", sans-serif;
-  /* font-family: charter; */
 }
 
 a {
@@ -44,7 +43,6 @@ a {
 }
 
 header {
-  /* --gray10: red; */
   font-size: 14px;
   color: var(--gray10);
 }
@@ -63,8 +61,6 @@ nav details summary {
 
 h1 {
   font-size: 60px;
-  /* text-decoration: underline; */
-  /* font-size: 3.75em; */
 }
 
 h2 {
@@ -86,9 +82,6 @@ pre {
       transparent
     ),
     url("../images/pattern.png");
-  /* background-repeat: no-repeat; */
-  /* background-position: left 50px bottom -50px; */
-  /* background-size: cover; */
   height: 350px;
 }
 
@@ -103,7 +96,3 @@ h3::after {
   background: var(--gray30);
   display: inline-block;
 }
-
-/* ::selection {
-  background: green;
-} */
